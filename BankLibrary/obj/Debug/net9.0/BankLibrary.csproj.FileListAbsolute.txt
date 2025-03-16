@@ -1,0 +1,11 @@
+C:\Users\caioc\source\repos\BankSolution\BankLibrary\obj\Debug\net9.0\BankLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caioc\source\repos\BankSolution\BankLibrary\obj\Debug\net9.0\BankLibrary.AssemblyInfoInputs.cache
+C:\Users\caioc\source\repos\BankSolution\BankLibrary\obj\Debug\net9.0\BankLibrary.AssemblyInfo.cs
+C:\Users\caioc\source\repos\BankSolution\BankLibrary\obj\Debug\net9.0\BankLibrary.csproj.CoreCompileInputs.cache
+C:\Users\caioc\source\repos\BankSolution\BankLibrary\bin\Debug\net9.0\BankLibrary.deps.json
+C:\Users\caioc\source\repos\BankSolution\BankLibrary\bin\Debug\net9.0\BankLibrary.dll
+C:\Users\caioc\source\repos\BankSolution\BankLibrary\bin\Debug\net9.0\BankLibrary.pdb
+C:\Users\caioc\source\repos\BankSolution\BankLibrary\obj\Debug\net9.0\BankLibrary.dll
+C:\Users\caioc\source\repos\BankSolution\BankLibrary\obj\Debug\net9.0\refint\BankLibrary.dll
+C:\Users\caioc\source\repos\BankSolution\BankLibrary\obj\Debug\net9.0\BankLibrary.pdb
+C:\Users\caioc\source\repos\BankSolution\BankLibrary\obj\Debug\net9.0\ref\BankLibrary.dll
